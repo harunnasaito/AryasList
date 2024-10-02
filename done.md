@@ -5,3 +5,5 @@ DONE.md
 
 
 - Joffrey Baratheon (meurt au buffet, empoisonné, et ce n'est pas Arya qui l'a fait.)
+- Meryn Trant (attaque le maître à danser d'Arya, mais elle parvient à l'éliminer.)
+
