@@ -1,6 +1,6 @@
 #TOTO List
 
-## Personnages à ajouter 
+## Les Personnages dans le liste de TOTO 
 
 - Joffrey Baratheon
 - Cersei Lannister 
