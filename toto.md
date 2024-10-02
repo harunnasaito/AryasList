@@ -1,9 +1,10 @@
 #TOTO List
 
-## Les Personnages dans le liste de TOTO 
+## le liste des personnes à éliminer
 
 - Joffrey Baratheon
 - Cersei Lannister 
- 
+- La Montagne
+- Meryn Trant
 
 
