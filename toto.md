@@ -4,6 +4,6 @@
 
 - Joffrey Baratheon
 - Cersei Lannister 
-- Ilyn Payane 
+ 
 
 
